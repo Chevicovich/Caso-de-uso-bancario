@@ -1,5 +1,5 @@
-# Caso de uso de sistema bancário
+# Diagrama de Caso de uso de sistema bancário
 
-Feito no draw.io
+UML feito no draw.io
 
-[Caso de uso Bancário - Draw.io](https://drive.google.com/file/d/1aNbTC_WTRLasvB7MajZOEeZBE_f3-isc/view?usp=sharing) 
+[Diagrama de Caso de uso Bancário](https://drive.google.com/file/d/1aNbTC_WTRLasvB7MajZOEeZBE_f3-isc/view?usp=sharing) 
